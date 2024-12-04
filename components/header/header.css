@@ -1,0 +1,18 @@
+/* Make sure logo doesn't take too much space */
+.logo {
+    height: 30px;
+  }
+  
+  /* Navbar links are aligned properly */
+  .navbar-nav .nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  /* Optional: Adjust padding or margins for mobile */
+  @media (max-width: 767px) {
+    .navbar-nav {
+      text-align: center;
+    }
+  }
+  

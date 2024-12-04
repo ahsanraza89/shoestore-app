@@ -1,0 +1,15 @@
+.card{
+    width: 250px  !important;
+    height: 300px  !important;
+    border: 2px solid black  !important;
+    border-radius: 10px;
+    text-align: center ;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.card-img-top{
+    max-height: 150px;
+    width: fit-content;
+    border-radius: 10px;
+}
